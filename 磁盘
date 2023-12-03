@@ -1,0 +1,8 @@
+磁臂黏着：系统总是访问磁盘的某个磁道而不响应对其他磁道的访问请求
+不会导致磁臂黏着的是先来先服务(FCFS)
+会导致：最短寻道时间优先(SSTF)、扫描算法(SCAN)、循环扫描算法(CSCAN)
+【例题】408 2018 30
+
+参考链接：
+https://www.zhihu.com/question/432947024/answer/1644035379
+https://blog.csdn.net/weixin_45962068/article/details/120796582
